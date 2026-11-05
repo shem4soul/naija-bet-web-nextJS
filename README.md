@@ -1,5 +1,7 @@
 # Naija Sportsbook — Player website
 
+naijabetwebfrontend.vercel.app
+
 The customer-facing website for the [Naija Sportsbook API](https://github.com/shem4soul/Node-Bet-casino-sportsbook): football betting on the Premier League, LaLiga, NPFL and more, a provably-fair casino, and Paystack deposits and withdrawals.
 
 Built with **Next.js 16 (App Router)**, **TypeScript**, **Tailwind CSS 4** and **TanStack Query**.
